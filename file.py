@@ -20,3 +20,9 @@ with open ('file.xml', 'r') as rf:
     for line in rf:
         if 'version' and 'encoding' in line:
             print (line)
+
+
+
+
+# Question 2
+print (root.tag)
