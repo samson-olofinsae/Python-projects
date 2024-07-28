@@ -13,3 +13,10 @@ import xml.etree.ElementTree as ET
 tree = ET.parse ('file.xml') 
 
 root = tree.getroot() 
+
+
+#Question 1
+with open ('file.xml', 'r') as rf:
+    for line in rf:
+        if 'version' and 'encoding' in line:
+            print (line)
