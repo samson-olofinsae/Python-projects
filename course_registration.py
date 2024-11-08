@@ -8,7 +8,7 @@ physic_reg = False
 biology_reg = False
 
 
-while True:    # terminal is open idenfinately (code block run indefinately) until code is exited
+while True:    # terminal is open idenfinately (code blocks run indefinately) until code is exited
     reg = input("enter course: ").lower()
     if reg == "physics":
         if physic_reg:
