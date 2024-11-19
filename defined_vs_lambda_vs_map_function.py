@@ -46,8 +46,6 @@ mylam = lambda name : f'hello {name}. This is from a lambda function'
 print(mylam('Sam'))
 
 
-
-
 # map function
 # This enables you to call a defined function on a series of iterable arguments in parallel 
 # syntax: map(function, iterable)
