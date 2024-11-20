@@ -7,7 +7,6 @@ def add(x, y):
     result = x + y
     return result
 
-
 print (add(4 ,10))
 
 
