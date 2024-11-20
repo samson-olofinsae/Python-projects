@@ -1,3 +1,5 @@
+# FUNCTIONS: DEFINED, LAMBDA and MAP funtions
+
 # Defined function vs Lambda function
 
 # defined function
@@ -46,7 +48,14 @@ mylam = lambda name : f'hello {name}. This is from a lambda function'
 print(mylam('Sam'))
 
 
-# map function
+# Lamba function to store details
+
+details=lambda book: f'I need to read {book} by lunch break today'
+
+print(details('Harry Potter'))
+
+
+# MAP function
 # This enables you to call a defined function on a series of iterable arguments in parallel 
 # syntax: map(function, iterable)
 
