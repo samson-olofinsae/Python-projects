@@ -1,5 +1,4 @@
 # FUNCTIONS: DEFINED, LAMBDA and MAP funtions
-
 # Defined function vs Lambda function
 
 # defined function
@@ -8,7 +7,6 @@ def add(x, y):
     return result
 
 print (add(4 ,10))
-
 
 # lambda function
 
@@ -19,7 +17,6 @@ mylamda= lambda x, y: x + y
 print(mylamda(6, 9))
 
 #print(mylambda(6, 7))
-
 
 # defined function
 
