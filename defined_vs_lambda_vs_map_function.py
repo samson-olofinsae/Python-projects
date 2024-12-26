@@ -43,7 +43,6 @@ greetings('Sam')
 mylam = lambda name : f'hello {name}. This is from a lambda function'
 print(mylam('Sam'))
 
-
 # Lamba function to store details
 
 details=lambda book: f'I need to read {book} by lunch break today'
