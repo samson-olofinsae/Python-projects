@@ -113,7 +113,6 @@ for x, y in my_interest_dict.items():
     pass
     #print(x,y)
 
-
 # WEEK3, DAY4
 #print(nov['week3']['day4'])
 
