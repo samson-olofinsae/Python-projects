@@ -140,7 +140,6 @@ for x, y in my_interest_dict.items():
 
 ####################################################
 
-
 print(nov['week2']['day4'].keys())
 print(nov['week2']['day4'].values())
 
