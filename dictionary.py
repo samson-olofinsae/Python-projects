@@ -69,7 +69,6 @@ nov= {'week1': {'day1':{'9-10':'work', '10-11':'eat','11-12':'work','12-1':'work
                 'day5':{'9-10':'work', '10-11':'eat','11-12':'work','12-1':'work','1-2':'work',
                         '2-3':'work','3-4':'work','4-5':''}}}
 
-
 # syntax: 
 # calling an event: print(month['week']['day']['hour'])
 # updating an event: month['week']['day'].update({'hour':'new event'})
