@@ -50,7 +50,6 @@ details=lambda book: f'I need to read {book} by lunch break today'
 
 print(details('Harry Potter'))
 
-
 # MAP function
 # This enables you to call a defined function on a series of iterable arguments in parallel 
 # syntax: map(function, iterable)
