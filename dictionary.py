@@ -129,7 +129,6 @@ for x, y in my_interest_dict.items():
 
 ## WORKING ON PANDAS
 
-
 ###################
 # pratical dataframe : converting dictionary objects to list and to pandas dataframe
 
