@@ -21,8 +21,7 @@ while number < 9:
 
 sky_colour='blue'  # asignment operation
 
-while sky_colour == 'blue': # comparative operation
-    
+while sky_colour == 'blue': # comparative operation    
     print ('sky colour is blue') # this will generate an indefinate WHILE loop since 
                                  # sky_colour comparation (== 'blue') is still the 
                                  # same as the assignment (= 'blue')in memory
