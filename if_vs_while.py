@@ -17,7 +17,6 @@ while number < 9:
     break # add a break to break out of the indefinate WHILE loop
     pass 
 
-
 # WHILE example 2
 
 sky_colour='blue'  # asignment operation
