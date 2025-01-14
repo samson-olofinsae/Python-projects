@@ -27,7 +27,6 @@ elif user_choice == 1:
     else:
         print('sorry, computer wins')
 
-
 elif user_choice == 2:
     user_choice=values[2]
     print(f'You chose: {values[2]}')
