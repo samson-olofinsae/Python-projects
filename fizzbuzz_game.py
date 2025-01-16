@@ -10,7 +10,6 @@ for number in range(1,101):
     elif number % 3 == 0:
         number = 'Fizz'
     elif number % 5 == 0:
-        number = 'Buzz'
-  
+        number = 'Buzz'  
 
     print(number)
