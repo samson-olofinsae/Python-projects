@@ -11,5 +11,4 @@ for number in range(1,101):
         number = 'Fizz'
     elif number % 5 == 0:
         number = 'Buzz'  
-
     print(number)
