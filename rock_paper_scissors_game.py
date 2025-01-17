@@ -5,7 +5,6 @@ Rock wins against scissors.
 Scissors win against paper.
 Paper wins against rock.
 '''
-
 values = ['Rock', 'Papers', 'Scissors']
 user_choice = int(input('What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors\n'))
 if user_choice == 0:
