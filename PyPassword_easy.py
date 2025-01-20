@@ -41,4 +41,4 @@ for ch in range(1,(nr_numbers+1)):
     #numbers_pass_word=numbers_pass_word+numbers_string
     numbers_pass_word += numbers_string
 
-print(f'Your password is {letters_pass_word}{symbols_pass_word}{numbers_pass_word}')
+print(f'Your easy password is {letters_pass_word}{symbols_pass_word}{numbers_pass_word}')
