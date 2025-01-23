@@ -24,7 +24,6 @@ numbers_pass_word=''
 
 
 
-
 for ch in range(1,(nr_letters+1)):
     letter_string=random.choice(letters)
     #letters_pass_word=letters_pass_word+letter_string
