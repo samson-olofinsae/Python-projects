@@ -1,5 +1,4 @@
 import random
-
 # Easy level
 # password sequence
 #letters-symbols-numbers
