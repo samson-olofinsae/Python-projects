@@ -1,5 +1,4 @@
 import random
-
 # hard level
 # The order of letters, symbols and number is randomised
 
