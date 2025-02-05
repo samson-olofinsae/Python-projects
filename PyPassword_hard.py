@@ -47,6 +47,5 @@ password_list= list(initial_password)
 random.shuffle(password_list)
 
 # Reconvert to String
-
 password_string = ''.join(password_list)
 print(f'Your hard password is {password_string}')
