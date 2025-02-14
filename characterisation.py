@@ -36,6 +36,7 @@ character5= Character('neutral', 'rio jerecho')
 
 # calling the characters
 
+
 character1.generate_dataframe()
 character2.generate_dataframe()
 character3.generate_dataframe()
