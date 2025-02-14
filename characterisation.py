@@ -14,7 +14,6 @@ types
 
  - make dataframe method
 '''
-
 name_list=[]
 type_list=[]
 
