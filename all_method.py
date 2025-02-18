@@ -31,7 +31,6 @@ def mybase():
 
 mybase()
 
-
 ##  OR
 
 def validate_sequence(sequence):
