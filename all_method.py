@@ -13,3 +13,9 @@ else:
 
 
 # explaination
+''' 
+for every character (ch) in the variable 'sequence'; 
+if the character is in the letters ATCG;
+print TRUE; 
+otherwise print FALSE
+'''
