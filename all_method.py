@@ -30,3 +30,12 @@ def mybase():
         print('FALSE')
 
 mybase()
+
+
+##  OR
+
+def validate_sequence(sequence):
+    if not all(base in 'ATCG' for base in sequence):
+        return False
+    else:
+        return True
