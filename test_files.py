@@ -8,5 +8,4 @@ class test_range (unittest.TestCase):
     def testing(self):
         input
 
-
 # Good night! Continue in the morning"
