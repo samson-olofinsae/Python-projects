@@ -28,7 +28,6 @@ def mybase():
 
 mybase()
 ##  OR
-
 def validate_sequence(sequence):
     if not all(base in 'ATCG' for base in sequence):
         return False
