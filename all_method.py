@@ -29,7 +29,6 @@ def mybase():
         print('FALSE')
 
 mybase()
-
 ##  OR
 
 def validate_sequence(sequence):
