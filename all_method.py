@@ -38,3 +38,17 @@ def validate_sequence(sequence):
         return False
     else:
         return True
+
+
+
+########### write your unittest first
+
+class TestBaseFunction(unittest.TestCase):
+    def test_my_base(self):
+        input_sequence='ATCGGi'
+        expected_output=True
+        myinput=mybase(input_sequence)
+        self.assertEqual(expected_output, myinput)
+
+if __name__=='__main__':
+    unittest.main()
