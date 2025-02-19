@@ -37,7 +37,6 @@ def validate_sequence(sequence):
     else:
         return True
 
-
 ########### Unite testing
 ########### write your unittest first
 
