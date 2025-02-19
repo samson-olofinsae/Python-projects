@@ -19,7 +19,6 @@ otherwise print FALSE
 '''
 
 
-
 # Using a function
 def mybase():
     if all(ch in 'ATCG' for ch in sequence):
