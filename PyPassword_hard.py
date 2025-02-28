@@ -42,6 +42,7 @@ initial_password=f'{letters_pass_word}{symbols_pass_word}{numb
 # convert your randomly-generated password string to list
 password_list= list(initial_password)
 
+
 # shuffle the password 
 random.shuffle(password_list)
 
