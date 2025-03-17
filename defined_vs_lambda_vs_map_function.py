@@ -8,7 +8,7 @@ def add(x, y):
 
 print (add(4 ,10))
 
-# lambda function
+# lambda function (e.g arithmetic)
 
 # syntax
 # lambda argument : expression
