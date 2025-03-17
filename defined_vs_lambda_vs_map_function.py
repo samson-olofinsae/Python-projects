@@ -31,7 +31,6 @@ mylam = lambda : 'hello world'
 
 print(mylam())
 
-
 # defined function
 def greetings(name):
     print(f'hello {name}. This is from a defined function')
