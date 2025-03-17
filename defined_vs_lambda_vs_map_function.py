@@ -41,6 +41,10 @@ greetings('Sam')
 
 
 # lambda function (e.g textual)
+
+# syntax
+# lambda argument : expression
+
 mylam = lambda name : f'hello {name}. This is from a lambda function'
 print(mylam('Sam'))
 
