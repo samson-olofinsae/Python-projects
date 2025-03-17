@@ -25,6 +25,8 @@ def printer():
 
 
 # lambda function (e.g textual)
+# syntax
+# lambda argument : expression
 
 mylam = lambda : 'hello world'
 
