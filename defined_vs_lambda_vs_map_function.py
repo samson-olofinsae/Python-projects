@@ -38,7 +38,7 @@ def greetings(name):
 greetings('Sam')
 
 
-# lambda function
+# lambda function (e.g textual)
 mylam = lambda name : f'hello {name}. This is from a lambda function'
 print(mylam('Sam'))
 
