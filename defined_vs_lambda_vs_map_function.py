@@ -24,7 +24,7 @@ def printer():
     print('hello world')
 
 
-# lambda function
+# lambda function (e.g textual)
 
 mylam = lambda : 'hello world'
 
