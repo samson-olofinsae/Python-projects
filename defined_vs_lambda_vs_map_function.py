@@ -1,6 +1,7 @@
 # FUNCTIONS: DEFINED, LAMBDA and MAP funtions
 # Defined function vs Lambda function
 
+
 # defined function
 def add(x, y):
     result = x + y
