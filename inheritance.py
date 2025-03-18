@@ -2,7 +2,6 @@
 class Mammals:
   def walk(self):
     print ('walk')
-
 class Dog(Mammals):
   def bark(self):
     print ('bark')
