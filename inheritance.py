@@ -13,7 +13,6 @@ class Cat (Mammals):
 class Humans(Mammals):
     def talk(self):
       print('talk')
-
 # dog = Dog()
 # dog.bark()
 # cat = Cat()
