@@ -15,7 +15,6 @@ while number < 9:
                                    # (as long as the statement naumber < 9 is true)
     break # add a break to break out of the indefinate WHILE loop
     pass 
-
 # WHILE example 2
 
 sky_colour='blue'  # asignment operation
