@@ -7,7 +7,6 @@ number = 8
 if number < 9:
     #print('number is less than 9')
     pass
-
 # WHILE example 1
 
 while number < 9:
