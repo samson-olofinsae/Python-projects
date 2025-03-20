@@ -2,7 +2,6 @@
 # WHILE behaves like an if statement, with the exception that it performs an indefinate loop if the condition is true
 
 # IF example
-
 number = 8
 
 if number < 9:
