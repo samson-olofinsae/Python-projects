@@ -17,7 +17,6 @@ if the character is in the letters ATCG;
 print TRUE; 
 otherwise print FALSE
 '''
-
 # Using a function
 def mybase():
     if all(ch in 'ATCG' for ch in sequence):
