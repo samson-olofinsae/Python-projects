@@ -9,7 +9,6 @@ if all(ch in 'ATCG' for ch in sequence):
     
 else:
     print('FALSE')
-
 # explaination
 ''' 
 for every character (ch) in the variable 'sequence'; 
