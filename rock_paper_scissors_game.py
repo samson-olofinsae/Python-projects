@@ -26,6 +26,7 @@ elif user_choice == 1:
     if user_choice == values[1] and computer_choice == values[0]:
      print('You won')
     else:
+        
         print('sorry, computer wins')
 elif user_choice == 2:
     user_choice=values[2]
