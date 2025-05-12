@@ -23,7 +23,6 @@ print(mylamda(6, 9))
 def printer():
     print('hello world')
 
-
 # lambda function (e.g textual)
 # syntax
 # lambda argument : expression
