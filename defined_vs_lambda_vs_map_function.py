@@ -38,7 +38,6 @@ def greetings(name):
 
 greetings('Sam')
 
-
 # lambda function (e.g textual)
 
 # syntax
