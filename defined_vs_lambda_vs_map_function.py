@@ -59,7 +59,6 @@ print(details('Harry Potter'))
 def program(x):
     return f'{x} is very good'
 
-
 mymap=map(program, ['python', 'javascript'])
 #print(mymap)
 print(list(mymap))
