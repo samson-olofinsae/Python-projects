@@ -5,7 +5,6 @@ math_reg = False
 physic_reg = False
 biology_reg = False
 
-
 while True:    # terminal is open idenfinately (code blocks run indefinately) until code is exited
     reg = input("enter course: ").lower()
     if reg == "physics":
