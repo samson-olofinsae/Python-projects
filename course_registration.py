@@ -43,6 +43,5 @@ When you have registered for all courses. Type COMPLETE in the terminal
          print ("Registrations completed. Thank you. Terminal locked.")
 
          break
-
     else:
         print ("Sorry, entry is invalid!")
