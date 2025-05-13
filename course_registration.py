@@ -1,7 +1,6 @@
 ########  College school course registration code
 
 
-
 reg = ""
 math_reg = False
 physic_reg = False
