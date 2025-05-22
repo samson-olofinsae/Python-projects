@@ -5,8 +5,7 @@
 sequence = 'ATTTGC'
 
 if all(ch in 'ATCG' for ch in sequence):
-    print('TRUE')
-    
+    print('TRUE')    
 else:
     print('FALSE')
 # explaination
