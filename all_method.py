@@ -36,8 +36,7 @@ class TestBaseFunction(unittest.TestCase):
         input_sequence='ATCGGi'
         expected_output=True
         myinput=mybase(input_sequence)
-        self.assertEqual(expected_output, myinput)
-        
+        self.assertEqual(expected_output, myinput)        
 
 if __name__=='__main__':
     unittest.main()
