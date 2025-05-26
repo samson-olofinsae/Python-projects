@@ -100,7 +100,6 @@ nov['week2']['day3'].update({'4-5':'studying list and string'})
 
 # syntax: print(month['week']['day'])
 
-
 my_interest_dict=nov['week1']['day1']
 #print(my_interest_dict)
 
