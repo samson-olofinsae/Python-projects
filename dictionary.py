@@ -150,7 +150,6 @@ for activity in nov['week2']['day4'].values():
 #master_list=[time_list, activity_list]
 #print(master_list)
 
-
 ######### using zip
 # I use zip to zip the two lists
 # list of strings
