@@ -145,7 +145,6 @@ for activity in nov['week2']['day4'].values():
     activity_list.append(activity)
 
 
-
 #print(time_list)
 #print(activity_list)
 
