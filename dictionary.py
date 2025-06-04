@@ -71,7 +71,6 @@ nov= {'week1': {'day1':{'9-10':'work', '10-11':'eat','11-12':'work','12-1':'work
 # calling updated event: print(month['week']['day']['hour'])
 # calling all events of certain day in a certain week: print(nov['week']['day'])
 
-
 # checking the event in nov week2, day3
 #print(nov['week2']['day3']['2-3'])
 
