@@ -44,7 +44,6 @@ character5.generate_dataframe()
 
 # create headers
 column_headers=['Archetype', 'Name']
-
 # generate dataframe
 df = pd.DataFrame(list(zip(type_list ,name_list)),columns=column_headers)
 
