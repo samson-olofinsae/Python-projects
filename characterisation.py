@@ -48,5 +48,4 @@ column_headers=['Archetype', 'Name']
 df = pd.DataFrame(list(zip(type_list ,name_list)),columns=column_headers)
 
 # save input file
-
 df.to_csv('character.csv', index=False)
