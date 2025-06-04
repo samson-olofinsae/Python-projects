@@ -109,7 +109,6 @@ for x, y in my_interest_dict.items():
 # WEEK3, DAY4
 #print(nov['week3']['day4'])
 
-
 # checkiing event in week2, day4, 9-10
 #print(nov['week2']['day4']['9-10'])
 
