@@ -7,7 +7,6 @@ TASK
 
 '''
 
-
 import xml.etree.ElementTree as ET
 
 tree = ET.parse ('file.xml') 
