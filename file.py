@@ -20,6 +20,5 @@ with open ('file.xml', 'r') as rf:
             print (line)
 
 
-
 # Question 2
 print (root.tag)
