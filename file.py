@@ -13,7 +13,6 @@ tree = ET.parse ('file.xml')
 
 root = tree.getroot() 
 
-
 #Question 1
 with open ('file.xml', 'r') as rf:
     for line in rf:
