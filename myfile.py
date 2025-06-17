@@ -13,7 +13,6 @@ tree = ET.parse ('file.xml')
 
 root = tree.getroot()   
 
-
 ########################## The actual solution to the tasks is below
 
 #Question 1
