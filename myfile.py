@@ -31,7 +31,6 @@ print (root.tag)
 for child in root:
     print(child.tag, child.attrib)
 
-
 # Question 4
 
 for x in root:
