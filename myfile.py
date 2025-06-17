@@ -26,7 +26,6 @@ print (root.tag)
 
 # # Question 3
 
-
 for child in root:
     print(child.tag, child.attrib)
 
