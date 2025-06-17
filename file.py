@@ -6,7 +6,6 @@ TASK
 4. Print the child elements whose attributes are empty
 
 '''
-
 import xml.etree.ElementTree as ET
 
 tree = ET.parse ('file.xml') 
